@@ -1,0 +1,4 @@
+usage:
+key <keyname> optional<number of presses of the key, default: 1>
+
+keyname can be in form of <key>+<key>, the program will press the keys simultaneously
